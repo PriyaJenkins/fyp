@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "FYP",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
